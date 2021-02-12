@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: url("techx2.jpg") no-repeat center center fixed;
+    background-image:linear-gradient(to right, #b286fa, #c4a1fc);
     background-size: cover;
     font-family: 'Droid Serif', serif;
 }
